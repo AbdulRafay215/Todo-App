@@ -1,0 +1,26 @@
+
+.regmain{
+    width: 100% !important;
+    display: block !important;
+    justify-content: center !important;
+    border: 1px solid black !important;
+    border-radius: 15px;
+    margin-top: 10% !important;
+    padding: 10px !important;
+}
+.regmain h1{
+    border-bottom: 1px solid black  !important;
+    padding: 10px !important;
+    padding-top: 5px !important;
+}
+label{
+  padding: 5px !important;
+}
+input{
+    padding: 10px !important;
+    margin: 2px !important;
+    width: 100% !important;
+}
+.card-footer{
+    border-top: 1px solid black !important;
+}
